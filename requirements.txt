@@ -1,0 +1,9 @@
+numpy
+pandas
+torch
+sentence-transformers
+faiss-cpu
+pytest
+ollama
+python-dotenv
+requests
